@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Interests
-* Recommender Systems
-* Natual Language Processing
-* Marketing Optimization
+# Interests
+* 🎁 Recommender Systems
+* 📋 Natual Language Processing
+* 📈 Marketing Optimization
 * 
 <!--
 **RunningMachineRunning/RunningMachineRunning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
